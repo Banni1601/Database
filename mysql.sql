@@ -2,4 +2,4 @@
 
 --INSERT INTO emp(name,loc,role) VALUES ("kUNNY","HYD","frontend");
 
-SELECT * FROM emp WHERE name="BUNNY";
+SELECT * FROM emp WHERE name="BUNNY" jjjj;
